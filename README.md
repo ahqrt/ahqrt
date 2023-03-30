@@ -40,6 +40,6 @@ ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <br>
   <br>
 
-| ![ahqrt's github stats](https://github-readme-stats.vercel.app/api?username=ahqrt&show_icons=true&theme=tokyonight) | ![ahqrt GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahqrt&theme=tokyonight) |
+| ![ahqrt's github stats](https://github-readme-stats.vercel.app/api?username=ahqrt&show_icons=true) | ![ahqrt GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahqrt) |
 | --- | --- |
 <br>

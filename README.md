@@ -1,7 +1,3 @@
-<p align="center">
-    <img width="200" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/31796815?v=4">
-</p>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>

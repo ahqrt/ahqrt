@@ -25,10 +25,4 @@
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'>
 </p>
-
-<br /> 
-<br />
-
-| ![ahqrt's github stats](https://github-readme-stats.vercel.app/api?username=ahqrt&show_icons=true) | ![ahqrt GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahqrt) |
-| --- | --- |
 <br>

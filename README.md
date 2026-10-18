@@ -1,25 +1,28 @@
-# Liye Yang
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-Node.js full-stack and AI Agent engineer. 6 years shipping web apps, mobile apps, and desktop clients.
+<div size='20px'> Hi! My name is ahqrt. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
-Node.js 全栈 / AI Agent。Web、移动端、桌面端都交付过。正在看全栈和 AI Agent 的机会。
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-## Now
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-**clayxai** — a platform that turns one prompt into a runnable full-stack app. I own the multi-agent flow and the full-stack delivery: routing, analysis, architecture, and development agents; LangChain / LangGraph; RAG; MCP; a Next.js workbench; a NestJS backend with an isolated cloud sandbox.
+- 🔭 I’m currently working on  BaiJiaYun
+  
+- 🌱 I’m currently learning Rust, C++, WebRTC
 
-## Selected work
+<br /> 
 
-- **[EvoAgentX](https://github.com/EvoAgentX/EvoAgentX)** — self-evolving agent framework, 1k+ stars. I contributed workflow generation, task planning, and the FastAPI / WebSocket server.
-- **boom / Baijiayun** — led the Meeting 2.0 Web and desktop SDK for audio and video calls, including 10,000-person meetings. Electron client with a Node Addon (C++).
-- **[Anitoons](https://github.com/muyiTechCom/antions)** — overseas AI animation app. I owned the Expo / React Native app and the Firebase video upload and management backend.
-- **Biblical Comedian** — independently shipped iOS and Android news-chat app on React Native, with its own Nest.js backend.
-- **[varlet](https://github.com/varletjs/varlet)** — Vue 3 mobile component library, 4.8k stars. My work was on image-preview interaction and the Chinese docs.
-
-## Stack
-
-TypeScript · Node.js · React · Next.js · React Native · Expo · Electron · NestJS · Python · FastAPI · LangChain · LangGraph · MCP
-
-## Contact
-
-[a18053180656@gmail.com](mailto:a18053180656@gmail.com) · [LinkedIn](https://www.linkedin.com/in/victor2er34)
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height= 18px> </h2>
+<p align="left">
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg'>
+<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'>
+</p>
+<br>
